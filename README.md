@@ -1,6 +1,8 @@
+
 # 接受一个新电脑的步骤
 ## 0.前置补充
 1. [python写的一个东西](https://github.com/AFu-1993/abc/blob/init/python.7z)
+2. 下载解压程序[7-zip](https://www.7-zip.org/)
 
 ## 1. 安装chrome
 
